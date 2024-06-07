@@ -1,0 +1,32 @@
+.elementor-651 .elementor-element.elementor-element-da83041{padding:30px 0px 30px 0px;}.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.66 * 100% );}.elementor-651 .elementor-element.elementor-element-6d9a6ef:after{content:"0.66";}.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-post__thumbnail__link{width:40%;}.elementor-651 .elementor-element.elementor-element-6d9a6ef{--grid-column-gap:30px;--grid-row-gap:35px;z-index:0;}.elementor-651 .elementor-element.elementor-element-6d9a6ef.elementor-posts--thumbnail-left .elementor-post__thumbnail__link{margin-right:20px;}.elementor-651 .elementor-element.elementor-element-6d9a6ef.elementor-posts--thumbnail-right .elementor-post__thumbnail__link{margin-left:20px;}.elementor-651 .elementor-element.elementor-element-6d9a6ef.elementor-posts--thumbnail-top .elementor-post__thumbnail__link{margin-bottom:20px;}.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-post__title, .elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-post__title a{color:#000000;font-family:"Quicksand", Sans-serif;font-size:17px;font-weight:400;}.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-post__title{margin-bottom:10px;}.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-post__excerpt p{color:#040404;font-family:"Quicksand", Sans-serif;font-size:14px;font-weight:400;}.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-pagination{text-align:center;}body:not(.rtl) .elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}.elementor-651 .elementor-element.elementor-element-6d9a6ef > .elementor-widget-container{margin:3em 0em 3em 0em;padding:0px 30px 30px 30px;}.elementor-651 .elementor-element.elementor-element-f51e053 > .elementor-widget-container{margin:3em 0em 3em 0em;padding:0px 30px 30px 30px;}@media(max-width:1024px){.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-post__thumbnail__link{width:161px;}}@media(max-width:1024px) and (min-width:768px){.elementor-651 .elementor-element.elementor-element-d4915d3{width:100%;}.elementor-651 .elementor-element.elementor-element-4a5c2d9{width:100%;}}@media(max-width:767px){.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.6 * 100% );}.elementor-651 .elementor-element.elementor-element-6d9a6ef:after{content:"0.6";}.elementor-651 .elementor-element.elementor-element-6d9a6ef .elementor-post__thumbnail__link{width:50%;}.elementor-651 .elementor-element.elementor-element-6d9a6ef > .elementor-widget-container{padding:0px 0px 0px 0px;}}/* Start custom CSS for archive-posts, class: .elementor-element-6d9a6ef */.elementor-section .elementor-container .elementor-column .elementor-widget-wrap .elementor-element .elementor-widget-container .elementor-posts-container article.elementor-post .elementor-post__text {
+    display: flex;
+    justify-content: center;
+}/* End custom CSS */
+/* Start custom CSS for sidebar, class: .elementor-element-f51e053 */.elementor a {
+    box-shadow: none;
+    text-decoration: none;
+    color: black;
+}
+.elementor a:hover{
+    color: #b3a35f;
+}
+.wp-block-search__button-inside .wp-block-search__inside-wrapper{
+    border: none
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-4a5c2d9 *//*.sidebar-border{*/
+/*    border-left: 1px solid #ececec;*/
+  
+/*}*/
+.sidebar-border {
+    position: relative;
+}
+
+.sidebar-border::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 1px; /* Độ rộng của border */
+    background-color: #ececec; /* Màu của border */
+}/* End custom CSS */
